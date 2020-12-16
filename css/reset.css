@@ -99,13 +99,13 @@ li {
     color: #9697AA;
     line-height: 34px;
 }
-.cooperation-title,.adv-title,.partner-title,.catalog-title,.studypath-title,.topic-title,.contact-title,.case-title{
+.cooperation-title,.adv-title,.partner-title,.catalog-title,.studypath-title,.topic-title,.case-title{
     font-size: 34px;
     height: 34px;
     line-height: 34px;
     text-align: center;
 }
-.catalog-desc,.adv-description,.partner-descripition,.studypath-desc,.topic-desc,.contact-desc{
+.catalog-desc,.adv-description,.partner-descripition,.studypath-desc,.topic-desc{
     display: block;
     height: 35px;
     font-size: 20px;
