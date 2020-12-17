@@ -1,4 +1,4 @@
-.banner-section,.cooperation-container{
+.cooperation-container{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -6,15 +6,13 @@
     margin: 0 auto;
 }
 .banner-section{
-    padding:94px 57px 209px 19px;
-    height: 661px;
-    margin: 0 auto;
+    padding:94px 0 209px;
 }
 .banner-title{
     margin-bottom: 30px;
 }
-.banner-descripition{
-    margin-top: 2px;
+.banner-description{
+    margin: 2px 68px 0 0;
     width: 594px;
 }
 .banner-right{
